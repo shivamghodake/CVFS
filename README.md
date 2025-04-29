@@ -45,5 +45,5 @@ All components are implemented using **linked lists** and **dynamic memory alloc
 ## ⚙️ How to Compile and Run
 
 ```bash
-gcc main.c -o cvfs
+g++ cvfs.cpp -o cvfs
 ./cvfs
